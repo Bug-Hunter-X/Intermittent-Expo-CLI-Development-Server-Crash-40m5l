@@ -1,0 +1,1 @@
+While working with Expo CLI, I encountered a peculiar issue where the development server would randomly crash without any apparent error messages in the console. This would happen intermittently, making debugging extremely difficult.  The project built and ran fine on other machines, so I was able to confirm the problem was isolated to my development environment.
